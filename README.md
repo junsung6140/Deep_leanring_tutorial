@@ -9,6 +9,6 @@ so, This repository is for study!
 - reference : https://www.youtube.com/watch?v=ACmuBbuXn20&t=26s
 #### ResNet
 - paper : https://arxiv.org/abs/1512.03385
-- reference : https://www.youtube.com/watch?v=DkNIBBBvcPs\
+- reference : https://www.youtube.com/watch?v=DkNIBBBvcPs \
               https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
 
