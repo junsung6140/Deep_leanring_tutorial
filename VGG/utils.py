@@ -1,5 +1,4 @@
 import torch
-from torch._C import device
 from torchvision import datasets, transforms
 
 def mnist_upload(batch_size = 32):
