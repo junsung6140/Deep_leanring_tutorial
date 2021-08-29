@@ -15,6 +15,11 @@ so, This repository is for study!
 - reference 
   - https://www.youtube.com/watch?v=DkNIBBBvcPs 
   - https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
+#### DenseNet 
+- paper 
+  - https://arxiv.org/abs/1608.06993
+- reference 
+  - https://github.com/bamos/densenet.pytorch
 ## Object Detection
 #### Yolov1
 - paper 
