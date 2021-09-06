@@ -26,4 +26,4 @@ so, This repository is for study!
   - https://arxiv.org/abs/1506.02640
 - reference 
   - https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/object_detection/YOLO   
-  - and his youtub : https://www.youtube.com/watch?v=n9_XyCGr-MI&feature=youtu.be
+  - and his youtube : https://www.youtube.com/watch?v=n9_XyCGr-MI&feature=youtu.be
